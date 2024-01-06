@@ -1,6 +1,6 @@
-# **Clientexec bKash Payment Gateway** (URL Based)
+# **Clientexec bKash tokenized Payment Gateway** (URL Based)
 
-Clientexec bKash Payment Gateway module allows you to effortlessly integrate bKash payment solutions with the Clientexec automation platform.
+Clientexec bKash tokenized Payment Gateway module allows you to effortlessly integrate bKash payment solutions with the Clientexec automation platform.
 
 
 ## **Installation:**
