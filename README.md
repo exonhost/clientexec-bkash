@@ -3,7 +3,7 @@
 Clientexec bKash Payment Gateway module allows you to effortlessly integrate bKash payment solutions with the Clientexec automation platform.
 
 
-Installation:
+**Installation:**
 
 To install the bKash Checkout (URL Based) module, follow these steps:
 
