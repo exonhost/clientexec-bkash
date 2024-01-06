@@ -7,7 +7,7 @@ Clientexec bKash Payment Gateway module allows you to effortlessly integrate bKa
 
 To install the bKash Checkout (URL Based) module, follow these steps:
 
-1) Download [bKash-Clientexec](https://github.com/exonhost/clientexec-bkash/releases/download/v1.0.0/bkash-clientexec.zip) file from the Release section of this repository.
+1) Download [bKash-Clientexec](https://github.com/exonhost/clientexec-bkash/releases/download/v1.0.0/bkash.zip) file from the Release section of this repository.
 2) Upload the bkash-clientexec.zip file to the root directory of your Clientexec installation.
 3) Extract the contents of the ZIP file within your Clientexec installation directory. 
 
