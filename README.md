@@ -10,9 +10,9 @@ Installation:
 
 To install the bKash Checkout (URL Based) module, follow these steps:
 
-    Download bKash-clientexec.zip file from the Release section of this repository.
+    Download [bkash-clientexec.zip](https://github.com/exonhost/clientexec-bkash/releases/download/v1.0.0/bkash-clientexec.zip) file from the Release section of this repository.
 
-    Upload the bKash-clientexec.zip file to the root directory of your Clientexec installation.
+    Upload the bkash-clientexec.zip file to the root directory of your Clientexec installation.
 
     Extract the contents of the ZIP file within your Clientexec installation directory.
 
